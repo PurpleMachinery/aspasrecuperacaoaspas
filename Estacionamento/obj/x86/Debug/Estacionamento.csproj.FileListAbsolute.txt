@@ -1,0 +1,20 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Estacionamento\obj\x86\Debug\Estacionamento.frmMenu.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Estacionamento\obj\x86\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Estacionamento\obj\x86\Debug\Estacionamento.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Estacionamento\obj\x86\Debug\Estacionamento.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Estacionamento\obj\x86\Debug\Estacionamento.pdb
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.exe
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.pdb
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.frmCliente.resources
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.frmMenu.resources
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.frmFuncionario.resources
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.frmCarro.resources
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.frmSCarro.resources
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.frmSCliente.resources
+C:\Users\Aluno\Desktop\Estacionamento\Estacionamento\obj\x86\Debug\Estacionamento.frmSFuncionario.resources
