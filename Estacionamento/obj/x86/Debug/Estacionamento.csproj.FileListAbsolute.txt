@@ -34,3 +34,6 @@ C:\Users\Aluno\Desktop\wesley\Estacionamento\bin\Debug\Estacionamento.exe
 C:\Users\Aluno\Desktop\wesley\Estacionamento\bin\Debug\Estacionamento.pdb
 C:\Users\Aluno\Desktop\wesley\Estacionamento\obj\x86\Debug\Estacionamento.frmUFuncionario.resources
 C:\Users\Aluno\Desktop\wesley\Estacionamento\obj\x86\Debug\Estacionamento.frmUCarro.resources
+C:\Users\Aluno\Desktop\wesley\Estacionamento\obj\x86\Debug\Estacionamento.frmDCliente.resources
+C:\Users\Aluno\Desktop\wesley\Estacionamento\obj\x86\Debug\Estacionamento.frmDCarro.resources
+C:\Users\Aluno\Desktop\wesley\Estacionamento\obj\x86\Debug\Estacionamento.frmDFuncionario.resources

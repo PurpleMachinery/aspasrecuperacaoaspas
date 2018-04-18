@@ -59,6 +59,24 @@
     <Compile Include="frmCliente.Designer.cs">
       <DependentUpon>frmCliente.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmDCarro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDCarro.Designer.cs">
+      <DependentUpon>frmDCarro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDCliente.Designer.cs">
+      <DependentUpon>frmDCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDFuncionario.Designer.cs">
+      <DependentUpon>frmDFuncionario.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmFuncionario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +132,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmCliente.resx">
       <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDCarro.resx">
+      <DependentUpon>frmDCarro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDCliente.resx">
+      <DependentUpon>frmDCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDFuncionario.resx">
+      <DependentUpon>frmDFuncionario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmFuncionario.resx">
       <DependentUpon>frmFuncionario.cs</DependentUpon>
