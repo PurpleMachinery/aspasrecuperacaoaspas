@@ -57,5 +57,26 @@ namespace Estacionamento
             tt.MdiParent = this;
             tt.Show();
         }
+
+        private void carroToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            frmUCliente tt = new frmUCliente();
+            tt.MdiParent = this;
+            tt.Show();
+        }
+
+        private void funcionarioToolStripMenuItem2_Click(object sender, EventArgs e)
+        {
+            frmUFuncionario tt = new frmUFuncionario();
+            tt.MdiParent = this;
+            tt.Show();
+        }
+
+        private void carroToolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            frmUCarro tt = new frmUCarro();
+            tt.MdiParent = this;
+            tt.Show();
+        }
     }
 }

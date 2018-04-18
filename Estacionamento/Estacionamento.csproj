@@ -89,6 +89,24 @@
     <Compile Include="frmSFuncionario.Designer.cs">
       <DependentUpon>frmSFuncionario.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmUCarro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUCarro.Designer.cs">
+      <DependentUpon>frmUCarro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUCliente.Designer.cs">
+      <DependentUpon>frmUCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUFuncionario.Designer.cs">
+      <DependentUpon>frmUFuncionario.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmCarro.resx">
@@ -111,6 +129,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmSFuncionario.resx">
       <DependentUpon>frmSFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUCarro.resx">
+      <DependentUpon>frmUCarro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUCliente.resx">
+      <DependentUpon>frmUCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUFuncionario.resx">
+      <DependentUpon>frmUFuncionario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
